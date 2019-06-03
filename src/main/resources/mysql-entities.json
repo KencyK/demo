@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "MYSQL ENTITY 1",
+    "description": "MYSQL ENTITY DESCRIPTION 1"
+  },
+  {
+    "id": 2,
+    "name": "MYSQL ENTITY 2",
+    "description": "MYSQL ENTITY DESCRIPTION 2"
+  },
+  {
+    "id": 3,
+    "name": "MYSQL ENTITY 3",
+    "description": "MYSQL ENTITY DESCRIPTION 3"
+  }
+]
